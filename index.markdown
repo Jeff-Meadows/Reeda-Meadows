@@ -3,6 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
+carousels:
+  - images:
+    - image: uploads/1.jpg
+    - image: uploads/2.jpg
+    - image: uploads/3.jpg
+    - image: uploads/4.png
+    - image: uploads/5.png
+    - image: uploads/6.jpg
+    - image: uploads/7.jpg
+    - image: uploads/8.jpg
 ---
 
 # Reeda Meadows (1955-2025)
