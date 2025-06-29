@@ -54,7 +54,7 @@ her 4 grandchildren; and her brother, James Williams Jr. (Michelle).
 
 A Celebration of Life will be held at 3 PM on Saturday, July 12, 2025 at Chatham Community Church
 ([1685 Andrews Store Road, Pittsboro, NC 27312](https://maps.app.goo.gl/b1hhNpw4y3QrbpMo9){:target="_blank"}).
-Please RSVP to [rsvp@reedameadows.com](mailto:rsvp@reedameadows.com).
+Please RSVP [here](https://docs.google.com/forms/d/1lSeXw_LK9qP9rRthCqTxYxwrshy06by9kbnkzCM13bs/edit).
 
 In lieu of flowers, the family asks that you make online gifts in memory of Reeda to the Dementia Society of America
 [www.DementiaSociety.org/donate](https://www.DementiaSociety.org/donate){:target="_blank"}.
